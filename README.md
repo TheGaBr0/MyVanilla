@@ -1,3 +1,3 @@
 # MyVanilla
 
-Repository ufficiale del server mc.myvanilla.org
+Repository ufficiale del server myvanilla.mcserver.us
